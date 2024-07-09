@@ -21,7 +21,7 @@ We're happy you joined us, welcome to the team! Giulia is your manager and helps
 
 ## Task Information
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company, needs to know. This email just arrived for you:
-
+![Email]()
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 Possible KPIs include (to get you started, but not limited to):
 Overall customer satisfaction
