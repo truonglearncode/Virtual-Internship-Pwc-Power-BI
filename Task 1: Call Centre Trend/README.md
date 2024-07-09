@@ -4,6 +4,7 @@
  - [Background Information](#background-info)
  - [Task Information](#task-info)
  - [My Result](#my-result)
+ - [My Insight](#my-insight)
 ## Overview
 **What you'll learn** <a class = 'anchor' id = 'overview'></a>
 - The importance of upskilling in the digital age and its role in the workplace.
@@ -27,7 +28,7 @@ We're happy you joined us, welcome to the team! Giulia is your manager and helps
 ## Task Information <a class = 'anchor' id = 'task-info'></a>
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company, needs to know. This email just arrived for you:
 
-![Email](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/Screen%20Shot%202021-06-15%20at%205.23.06%20PM.png)
+![Email](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/Task%20Information%20Email.png)
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 Possible KPIs include (to get you started, but not limited to):
@@ -39,4 +40,10 @@ Possible KPIs include (to get you started, but not limited to):
 
 ## My Result <a class = 'anchor' id = 'my-result'></a>
 
-![Result 1]()
+![Result 1](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/My%20Result%20Page%201.png)
+
+![Result 2](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/My%20Result%20Page%202.png)
+
+![Result 3](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/My%20Result%20Page%203.png)
+
+## My Insight <a class = 'anchor' id = 'my-insight'></a>
