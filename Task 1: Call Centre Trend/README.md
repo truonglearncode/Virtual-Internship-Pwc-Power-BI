@@ -38,3 +38,5 @@ Possible KPIs include (to get you started, but not limited to):
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ## My Result <a class = 'anchor' id = 'my-result'></a>
+
+![Result 1]()
