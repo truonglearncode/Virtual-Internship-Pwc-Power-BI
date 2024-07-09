@@ -1,10 +1,9 @@
 # Task 1: Call Centre Trends
 ## Table of Content
-
  - [Overview](#overview)
  - [Background Information](#background-info)
  - [Task Information](#task-info)
-
+ - [My Result](#my-result)
 ## Overview
 **What you'll learn** <a class = 'anchor' id = 'overview'></a>
 - The importance of upskilling in the digital age and its role in the workplace.
@@ -32,9 +31,10 @@ It’s omnipresent: telecom marketing. Better price here. Better service there. 
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 Possible KPIs include (to get you started, but not limited to):
-- Overall customer satisfaction 
+- Overall customer satisfaction
 - Overall calls answered/abandoned
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+## My Result <a class = 'anchor' id = 'my-result'></a>
