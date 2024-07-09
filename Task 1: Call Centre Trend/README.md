@@ -1,6 +1,12 @@
 # Task 1: Call Centre Trends
+## Table of Content
+
+ - [Overview](#overview)
+ - [Background Information](#background-info)
+ - [Task Information](#task-info)
+
 ## Overview
-**What you'll learn**
+**What you'll learn** <a class = 'anchor' id = 'overview'></a>
 - The importance of upskilling in the digital age and its role in the workplace.
 - The concept of becoming a "Digital Accelerator" and the skills associated with it.
 - How to create a Power BI dashboard for visualizing key performance indicators (KPIs) and metrics
@@ -10,7 +16,7 @@
 - Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.
 - Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.
 
-## Background Information
+## Background Information <a class = 'anchor' id = 'background-info'></a>
 The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
 
 At PwC, we are working with other organizations across the world, building on our work with clients and on upskilling our 276,000 people. Still, more must be done if we are to ensure everyone has the opportunity to learn, work and participate in the digital world. This is at the heart of our purpose.
@@ -19,7 +25,7 @@ We are enabling employees who are motivated to further accelerate their skills t
 
 We're happy you joined us, welcome to the team! Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to become a true data jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reaches out to you to help him visualize their data.
 
-## Task Information
+## Task Information <a class = 'anchor' id = 'task-info'></a>
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company, needs to know. This email just arrived for you:
 
 ![Email](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/Screen%20Shot%202021-06-15%20at%205.23.06%20PM.png)
