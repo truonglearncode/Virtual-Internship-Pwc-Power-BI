@@ -22,5 +22,9 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 - Define proper KPIs
 - Create a dashboard for the retention manager reflecting the KPIs
 - Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
-
+<object data="https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%202%3A%20Customer%20Retention/PhoneNow%20inputs.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%202%3A%20Customer%20Retention/PhoneNow%20inputs.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%202%3A%20Customer%20Retention/PhoneNow%20inputs.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
