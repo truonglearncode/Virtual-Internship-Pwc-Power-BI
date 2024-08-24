@@ -41,13 +41,65 @@ Your colleague, the engagement partner, asks you to do the following tasks:
   
 ![Email](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%202%3A%20Customer%20Retention/Task%20Information%20Email.png)
 
-## My Result <a class = 'anchor' id = 'my-result'></a>
+## My Result and Insight <a class = 'anchor' id = 'my-result'></a>
 **Churn Dashboard**
 
 ![Churn Dashboard](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%202%3A%20Customer%20Retention/Churn%20Dashboard.png)
+
+**Insights**
+
+Customer Demographics: The customer base is predominantly male (52%), with a significant portion being senior citizens (25%).
+
+Customer Account Information: Electronic checks are the most common payment method, followed by mailed checks and bank transfers.
+
+Services Signed Up: Phone service and streaming TV are the most popular services, with a high percentage of customers opting for multiple lines.
+
+Customer Churn: The churn rate is relatively high, with 55.48% of customers churning within the first year.
+
+Subscription Time: Customers with longer subscription durations are less likely to churn, indicating the importance of customer retention efforts.
+
+Contract Types: Month-to-month contracts have the highest churn rate, while longer-term contracts (one year, two years) have lower churn rates.
+
+**Recommendations**
+
+Targeted Retention Strategies: Develop tailored retention strategies based on customer demographics, service usage, and contract types to address specific churn drivers.
+
+Improve Customer Experience: Focus on enhancing the customer experience, particularly for new customers, to increase satisfaction and reduce churn.
+
+Offer Incentives for Longer-Term Contracts: Provide incentives to encourage customers to sign up for longer-term contracts, which can lead to lower churn rates.
+
+Analyze Churn Reasons: Conduct in-depth analysis of churn reasons to identify specific pain points and address them proactively.
+
+Enhance Customer Support: Improve customer support services to address issues promptly and effectively, reducing customer frustration and the likelihood of churn.
+
+Leverage Data Analytics: Utilize data analytics to identify at-risk customers and proactively intervene to prevent churn.
 
 **Risk Analysis Dashboard**
 
 ![Churn Dashboard](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%202%3A%20Customer%20Retention/Risk%20Analysis%20Dashboard.png)
 
-## My Insight <a class = 'anchor' id = 'my-insight'></a>
+**Insights**
+
+Customer Churn: The overall churn rate is relatively high at 26.5%.
+
+Contract Types: Month-to-month contracts have the highest churn rate, while longer-term contracts (one year, two years) have lower churn rates.
+
+Internet Service: Customers with DSL have the highest churn rate, followed by fiber optic. Customers with no internet service have the lowest churn rate.
+
+Monthly Charges: Customers with higher monthly charges are more likely to churn, particularly those with fiber optic service.
+
+Payment Method: Electronic checks have the highest churn rate, while credit cards have the lowest.
+
+**Recommendations**
+
+Targeted Retention Strategies: Develop tailored retention strategies based on customer demographics, contract types, internet service usage, and monthly charges to address specific churn drivers.
+
+Offer Incentives for Longer-Term Contracts: Provide incentives to encourage customers to sign up for longer-term contracts, which can lead to lower churn rates.
+
+Review Pricing Structure: Evaluate the pricing structure for different internet service plans to ensure that they are competitive and aligned with customer value perception.
+
+Enhance Customer Experience: Focus on improving the customer experience, particularly for customers with DSL or higher monthly charges, to increase satisfaction and reduce churn.
+
+Leverage Data Analytics: Utilize data analytics to identify at-risk customers and proactively intervene to prevent churn.
+
+
