@@ -32,7 +32,9 @@ Your task is to do the following:
 - Write what you think some root causes of their slow progress might be
 
 ## My Result <a class = 'anchor' id = 'my-result'></a>
+![Result 1](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%203%20%3A%20Diversity%20%26%20Inclusion/Diversity%20%26%20Inclusion_KPI%201%2C2%2C3.png)
 
+![Result 1](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%203%20%3A%20Diversity%20%26%20Inclusion/Diversity%20%26%20Inclusion_KPI%204%2C5%2C6.png)
 ## My Insight <a class = 'anchor' id = 'my-insight'></a>
 **Insights**
 
