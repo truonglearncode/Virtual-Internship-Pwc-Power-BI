@@ -12,4 +12,4 @@ Truong Ngo
 
 Thanks
 
-![certificate]()
+![certificate](https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/certificate.png)
