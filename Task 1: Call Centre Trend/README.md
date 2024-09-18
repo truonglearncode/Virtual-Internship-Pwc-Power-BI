@@ -5,8 +5,8 @@
  - [Task Information](#task-info)
  - [My Result](#my-result)
  - [My Insight](#my-insight)
-## Overview
-**What you'll learn** <a class = 'anchor' id = 'overview'></a>
+## Overview <a class = 'anchor' id = 'overview'></a>
+**What you'll learn** 
 - The importance of upskilling in the digital age and its role in the workplace.
 - The concept of becoming a "Digital Accelerator" and the skills associated with it.
 - How to create a Power BI dashboard for visualizing key performance indicators (KPIs) and metrics
