@@ -1,4 +1,12 @@
-# Vitual Internship with Pwc
+# Overview of Pwc Power BI Project
+
+
+<p float="left">
+  <img src="https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/My%20Result%20Page%201.png" width="300" />
+  <img src="https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/My%20Result%20Page%202.png" width="300" /> 
+  <img src="https://github.com/truonglearncode/Forage-Power-BI-Pwc/blob/main/Task%201%3A%20Call%20Centre%20Trend/My%20Result%20Page%203.png" width="300" />
+</p>
+
 
 Hi there,
 
